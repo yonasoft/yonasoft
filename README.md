@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">Mobile and Cross-platform</h3>
+<h3 align="left">Mobile</h3>
 
 ###
 
