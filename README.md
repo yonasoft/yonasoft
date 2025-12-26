@@ -62,4 +62,4 @@
 
 ###
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yonasoft)](https://github.com/anuraghazra/github-readme-stats)
+[![Yonasoft's stats](https://github-readme-stats.vercel.app/api/wakatime?username=yonasoft)](https://github.com/anuraghazra/github-readme-stats)
